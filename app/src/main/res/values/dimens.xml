@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_text_time">30dp</dimen>
+    <dimen name="time_text_size">45sp</dimen>
+    <dimen name="button_start_margin">30dp</dimen>
+    <dimen name="button_stop_margin_end">30dp</dimen>
+</resources>
